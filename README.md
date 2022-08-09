@@ -31,6 +31,7 @@ A graphQL playgroud is available through `http://localhost:4000`
 
 ## To go further
 
-- [ ] Use graphql-compose-mongoose to have a more generic approach to create resolvers
+- [x] Use graphql-compose-mongoose to have a more generic approach to create resolvers
 - [ ] Review seed code for better usage of Promise
+- [ ] Work on security with API Gateway
 
